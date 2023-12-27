@@ -1,6 +1,6 @@
 # Bu araç @keyiflerolsun tarafından | @KekikAkademi için yazılmıştır.
 
-from KekikTelefon.sessionOlustur import sessioncu
+from KekikTelefon.sessionOlustur import Session
 from KekikTelefon.DIZ import ayiklayici
 
 from KekikTaban import KekikTaban
